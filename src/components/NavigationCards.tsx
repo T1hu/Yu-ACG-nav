@@ -3,7 +3,6 @@ import { NavigationCard } from './NavigationCard'
 import { useAppState } from '~/AppContext'
 import { CardContainer } from './CardContainer'
 import type { KunCard } from '~/types/card'
-import '../styles/card.css'
 
 export const NavigationCards: Component<{
   cards: KunCard[]

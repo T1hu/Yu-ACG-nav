@@ -14,5 +14,6 @@
     "tailwindcss",
     "vinxi",
     "webp"
-  ]
+  ],
+  "css.customData": [".vscode/tailwind.json"]
 }

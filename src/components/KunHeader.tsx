@@ -1,6 +1,5 @@
 import { Icon } from '@iconify-icon/solid'
 import { Component, createSignal, createMemo, JSX } from 'solid-js'
-import '~/styles/header.css'
 
 interface KunHeaderProps {
   size: number

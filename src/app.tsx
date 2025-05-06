@@ -4,7 +4,7 @@ import { FileRoutes } from '@solidjs/start/router'
 import { Suspense } from 'solid-js'
 import { AppContextProvider } from './AppContext'
 import Nav from '~/components/Nav'
-import './styles/app.css'
+import './styles/tailwindcss.css'
 
 export default function App() {
   return (
