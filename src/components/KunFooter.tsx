@@ -12,13 +12,13 @@ export const KunFooter = () => {
             Powered by{' '}
             <a
               class="underline underline-offset-2 decoration-kun-blue5-light dark:decoration-kun-blue5-dark"
-              href={`https://www.kungal.com/${
+              href={`https://github.com/T1hu/Yu-ACG-nav/${
                 context.locale === 'en-us' ? '' : 'zh-cn'
               }`}
               target="_blank"
               rel="noopener noreferrer"
             >
-              KUN Visual Novel Forum
+              Star Dew on the Other Shore & KUN Visual Novel Navigation Page
             </a>{' '}
           </p>
         </Show>
@@ -28,13 +28,13 @@ export const KunFooter = () => {
             由{' '}
             <a
               class="underline underline-offset-2 decoration-kun-blue5-light dark:decoration-kun-blue5-dark"
-              href={`https://www.kungal.com/${
+              href={`https://github.com/T1hu/Yu-ACG-nav/${
                 context.locale === 'en-us' ? '' : 'zh-cn'
               }`}
               target="_blank"
               rel="noopener noreferrer"
             >
-              鲲 Galgame 论坛
+              彼岸星露-羽ACG & 鲲 Galgame
             </a>{' '}
             提供支持
           </p>
