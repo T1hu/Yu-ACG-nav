@@ -29,3 +29,5 @@ The following sites are available for the ACG website:
 This project adheres to the `AGPL 3.0` open-source license.
 
 Thank you to every organization and friend contributing to the open-source community!
+
+Finally, I would like to thank KUN again for the open source project of the visual novel navigation page!
