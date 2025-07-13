@@ -1,4 +1,4 @@
-![Yu-ACG-nav](https://img.yugal.cc/i/2025/07/13/pmhkt3.png)
+![Yu-ACG-nav](https://raw.githubusercontent.com/T1hu/Yu-ACG-nav/refs/heads/main/logo.png)
 
 **[英文版](/docs/README_us.md)**
   
