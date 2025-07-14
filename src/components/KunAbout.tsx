@@ -84,6 +84,7 @@ export const KunAbout = () => {
             {t('kun.loli')}
           </A>
         </p>
+        <br />
         <p>感谢为开源事业做出贡献的每个组织和朋友！</p>
       </Show>
     </div>
