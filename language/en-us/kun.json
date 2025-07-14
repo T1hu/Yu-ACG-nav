@@ -1,36 +1,24 @@
 {
-  "title": "KUN Visual Novel Navigation Page",
+  "title": "The Star of the Other Shore - Yu ACG Navigation Page",
   "lightMode": "Light Mode",
   "darkMode": "Dark Mode",
   "main": "Main Websites",
-  "sub": "Subsites",
+  "sub": "Backup Station",
   "about": "About",
   "github": "GitHub Repository",
-  "404": "Page not found",
+  "404": "The page is flying away~",
   "remake": "One-click Reincarnation to Loli",
   "loli": "Give me a Loli pls",
   "forum": {
-    "title": "Kun Visual Novel Forum",
-    "details": "The cutest Visual Novel forum in the world! Currently the most advanced Visual Novel resource site in the world! No ads forever! Free forever! Visual Novel downloads, Visual Novel resource site."
+    "title": "Yu ACG-Game Download Station",
+    "details": "A game resource download site that integrates XiaoHyou and Galgame. All resources on the site are free and provide multiple download methods."
   },
   "backup": {
-    "title": "Kun Visual Novel Forum Backup Site (Activated)",
-    "details": "Kun Visual Novel Forum Backup Site. Since the main domain is inaccessible in mainland China, the backup domain has been activated. However, it is possible that images cannot be uploaded on the backup domain."
+    "title": "Yu ACG-Software Download Station",
+    "details": "Occasionally share some free and useful small software."
   },
   "sticker": {
-    "title": "Kun Visual Novel Stickers",
-    "details": "Visual Novel stickers website, Kun Visual Novel, Visual Novel sticker downloads, Visual Novel, stickers, downloads, Visual Novel Stickers Website."
+    "title": "备用发布页-GitHub",
+    "details": "If the domain name you are currently visiting is unavailable one day, you can jump to GitHub or the latest."
   },
-  "documents": {
-    "title": "Kun Visual Novel Forum Development Documentation",
-    "details": "Kun Visual Novel Forum is completely open-source and free! Development documentation is fully public!"
-  },
-  "down": {
-    "title": "Kun Visual Novel Forum Downtime Page",
-    "details": "In the event of unavoidable downtime, we will forcibly redirect the forum to this page."
-  },
-  "nav": {
-    "title": "Kun Visual Novel Navigation",
-    "details": "This website! A completely open-source navigation site! You can visit all Kun Visual Novel subsites!"
-  }
 }
