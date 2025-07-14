@@ -15,8 +15,8 @@ export const NavigationCard: Component<KunCard> = (props) => {
     <a href={props.link} rel="noreferrer" target="_blank">
       <article class="border border-kun-font-dark dark:border-kun-font-light hover:border-kun-blue5-light hover:dark:border-kun-blue0-light transition duration-300 flex flex-col p-6 h-full rounded-2xl">
         <h2
-          class={`text-lg font-semibold leading-6 ${
-            props.important ? 'text-red-600' : ''
+           class={`text-lg font-semibold leading-6 ${
+           props.important ? 'text-kun-font-dark dark:text-kun-font-light' : ''
           }`}
           innerHTML={props.title}
         />
