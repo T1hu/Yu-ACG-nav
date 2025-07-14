@@ -163,7 +163,7 @@ export const AppContextProvider: ParentComponent = (props) => {
   return (
     <Suspense>
       <AppContext.Provider value={state}>
-        <Title>{'KUN Visual Novel Navigation Page | 鲲 Galgame 导航页'}</Title>
+        <Title>{'The Star of the Other Shore | 彼岸星露-羽ACG 导航页'}</Title>
         <Meta name="lang" content={locale()} />
         <div>{props.children}</div>
       </AppContext.Provider>
