@@ -10,14 +10,14 @@ const siteData: KunCard[] = [
   {
     title: 'forum',
     details: 'forum',
-    link: 'https://www.kungal.com',
-    githubLink: 'https://github.com/KUN1007/kun-galgame-nuxt3'
+    link: 'https://seve.yugal.cc',
+    githubLink: 'https://seve.yugal.cc'
   },
   {
     title: 'backup',
     details: 'backup',
-    link: 'https://www.kungal.org',
-    githubLink: 'https://github.com/KUN1007/kun-galgame-nuxt3',
+    link: 'https://xy.yugal.cc',
+    githubLink: 'https://xy.yugal.cc',
     important: true
   }
 ]
@@ -26,27 +26,9 @@ const subSiteData: KunCard[] = [
   {
     title: 'sticker',
     details: 'sticker',
-    link: 'https://sticker.kungal.com',
-    githubLink: 'https://github.com/KUN1007/kun-galgame-stickers-sveltekit'
+    link: 'https://github.com/T1hu/Yu-ACG-nav',
+    githubLink: 'https://github.com/T1hu/Yu-ACG-nav'
   },
-  {
-    title: 'documents',
-    details: 'documents',
-    link: 'https://soft.moe/kun-visualnovel-docs/kun-forum.html',
-    githubLink: 'https://github.com/KUN1007/soft.moe'
-  },
-  {
-    title: 'down',
-    details: 'down',
-    link: 'https://down.kungal.com',
-    githubLink: 'https://github.com/KUN1007/kun-galgame-down-page'
-  },
-  {
-    title: 'nav',
-    details: 'nav',
-    link: 'https://nav.kungal.org',
-    githubLink: 'https://github.com/KUN1007/kun-galgame-nav-solid'
-  }
 ]
 export default function Home() {
   const context = useAppState()
