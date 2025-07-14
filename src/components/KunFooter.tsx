@@ -26,16 +26,14 @@ export const KunFooter = () => {
         <Show when={context.locale === 'zh-cn'}>
           <p>
             由{' '}
-            <a
-              class="underline underline-offset-2 decoration-kun-blue5-light dark:decoration-kun-blue5-dark"
-              href={`https://github.com/T1hu/Yu-ACG-nav/${
-                context.locale === 'en-us' ? '' : 'zh-cn'
-              }`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              彼岸星露-羽ACG & 鲲 Galgame
-            </a>{' '}
+           <a
+             class="underline underline-offset-2 decoration-kun-blue5-light dark:decoration-kun-blue5-dark"
+             href="https://github.com/T1hu/Yu-ACG-nav"
+               target="_blank"
+               rel="noopener noreferrer"
+         >
+           彼岸星露-羽ACG & 鲲 Galgame
+        </a>
             提供支持
           </p>
         </Show>
