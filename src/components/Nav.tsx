@@ -12,7 +12,7 @@ export default function Nav() {
       <a
         aria-label={`${t('kun.title')} ${t('kun.github')}`}
         class="text-kun-blue5-light dark:text-kun-blue5-dark text-2xl cursor-pointer"
-        href="https://github.com/KUN1007/kun-galgame-nav-solid"
+        href="https://github.com/T1hu/Yu-ACG-nav"
         target="_blank"
         rel="noreferrer"
       >
