@@ -1,36 +1,24 @@
 {
-  "title": "鲲 Galgame 导航页",
+  "title": "彼岸星露-羽ACG 导航页",
   "lightMode": "白天模式",
   "darkMode": "黑夜模式",
   "main": "主站",
-  "sub": "子网站",
+  "sub": "备用站",
   "about": "关于",
   "github": "GitHub 开源地址",
   "404": "页面未找到",
   "remake": "一键转生为萝莉",
   "loli": "请给我一只萝莉！",
   "forum": {
-    "title": "鲲 Galgame 论坛",
-    "details": "世界上最萌的 Galgame 论坛! 现阶段世界上最先进的 Galgame 资源发布网站! 永远不会有广告! 永远免费! Galgame 下载, Galgame 资源网站"    
+    "title": "羽ACG-游戏下载站",
+    "details": "小H游和Galgame与一体的游戏资源下载站，站内所有资源免费，并提供多种下载方式"    
   },
   "backup": {
-    "title": "鲲 Galgame 论坛备用网址 (已启用)",
-    "details": "鲲 Galgame 论坛备用网址。由于主域名在中国大陆不可访问，备用域名已激活，但是备用域名可能上传不了图片"
+    "title": "羽ACG-软件下载站",
+    "details": "偶尔分享些免费实用的小软件"
   },
   "sticker": {
-    "title":"鲲 Galgame 表情包",
-    "details": "Galgame 表情包网站, 鲲 Galgame, Galgame 表情包下载, Galgame, 表情包, 下载, Visual Novel Stickers Website"
+    "title":"备用发布页-GitHub",
+    "details": "如果某天当前访问的域名无法使用，可跳转至GitHub或者最新的"
   },
-  "documents": {
-    "title": "鲲 Galgame 论坛开发文档",
-    "details": "鲲 Galgame 论坛是完全开源免费的！ 开发文档完全公开！"
-  },
-  "down": {
-    "title": "鲲 Galgame 论坛下线页面",
-    "details": "碰到不得不下线的时候, 我们会将论坛强制重定向到此页面"
-  },
-  "nav": {
-    "title": "鲲 Galgame 导航",
-    "details": "就是本网站! 完全开源的导航站！ 可以前往鲲 Galgame 所有子网站！"
-  }
 }
