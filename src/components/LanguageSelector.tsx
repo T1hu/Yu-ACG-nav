@@ -32,11 +32,6 @@ export const LanguageSelector: ParentComponent<{}> = () => {
         class="left-0 right-0 bottom-0 absolute flex justify-end"
       >
         <div class="absolute right-2 top-2 bg-kun-bg-light dark:bg-kun-bg-dark p-2 rounded-xl w-48">
-          {/* 👇 提示文字 */}
-          <div class="px-2 pt-1 pb-2 text-xs text-gray-400 dark:text-gray-500 select-none">
-            选择语言后页面将自动刷新
-          </div>
-
           {/* eslint-disable-next-line */}
           {entries(langs).map(([lang, label]) => (
             <button
