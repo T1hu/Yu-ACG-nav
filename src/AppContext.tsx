@@ -74,7 +74,7 @@ const initialLocale = (location: router.Location): Locale => {
   )
   if (locale) return locale
 
-  return 'en-us'
+  return 'zh-cn'
 }
 
 const initialSettings = (location: router.Location): Settings => {
